@@ -5,7 +5,14 @@
 Основная деятельность: Affilate Marketing
 Хобби: программирование
 Языки и инструменты:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<style>
+  .img-logo {
+    whidth:40px;
+    height: auto;
+  }
+ </style>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" class="img-logo" />
+
 
 <!--
 **croyman/croyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
